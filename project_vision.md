@@ -1,5 +1,10 @@
 # Project Vision
 
+We envision that by the end of the term we will have created a project that provides interesting insights into socially responsible investing while also giving each team member valuable skills about programming and data visualization.
+
+
+
+
 Add a vision for what you want your project to look like in the end here... Feel free to remove the everything in this section (remember to leave the "Contracted Grade" section at the end.
 
 You are welcome to update the vision as your project evolves and changes.
@@ -30,4 +35,6 @@ Dovile's article offers a few suggestions to consider when writing your project 
 
 ## Contracted Grade
 
-For this project, we agree to contract for a { A+/A/B/C }.
+For this project, we agree to contract for a A-.
+
+
