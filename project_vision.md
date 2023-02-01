@@ -36,3 +36,8 @@ Dovile's article offers a few suggestions to consider when writing your project 
 ## Contracted Grade
 
 For this project, we agree to contract for a A-.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 81212f386b58d2f315584e442734eb996a0b5660
