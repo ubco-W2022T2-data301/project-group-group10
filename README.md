@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 10 - Medical Expenses by Lifestyle and Age
 
 Medical Expenses Across Different Lifestyles and Demographics 
 
