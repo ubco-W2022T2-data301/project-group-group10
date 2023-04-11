@@ -10,3 +10,6 @@ The following is Tong's EDA that show the relationship between BMI and medical e
 
 ![Tongimage](images/EDA_T.png)
 
+### Question 1
+My research question was **What effect does smoking have on an individual's BMI as they age?** 
+
