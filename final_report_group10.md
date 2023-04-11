@@ -15,6 +15,8 @@ The following is my EDA that shows the relationship between BMI and medical expe
 
 ### Question 1 + Results
 
+**Question: Does smoking have an effect on an individual's BMI as they age?**
+
 I began by plotting Age vs BMI for the dataset's entire population, and discovered there was a correlation between increasing age and increasing BMI.  I decided to separate out smokers from non-smokers to see what effect smoking had, and as you can see, the regression line flattens for smokers.  This suggests that smokers are less likely to gain weight as they age. Please note that for non-smokers, I used a sample to prevent overplotting.
 ![](images/Bmi_Age_SmokervsNon.jpg)
 

@@ -17,18 +17,17 @@ Our dataset is insurance forecasts of medical expenses in the United States of A
 ## Team Members
 
 - David Ollech: I'm a 4th year student hoping to pursue an MBA in the future 
-- Kyla Bruan: I am a 4th year MGMT student interested in pursuing finance and business analytics as a career in the future.
 - Tong Phasutha-Ekkasit: I am a third year student in the Management program focusing on accounting and finance.
 
 ## Images
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/test.png" width="100px">
+![](images/Bmi_Age_women.jpg)
 
 ## References
 
-{Add your stuff here}
+https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 
 
