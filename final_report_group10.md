@@ -20,6 +20,16 @@ My research question was **What effect does smoking have on an individual's BMI 
 
 ### Question 1 + Results
 
+I began by plotting Age vs BMI for the dataset's entire population, and discovered there was a correlation between increasing age and increasing BMI.  I decided to separate out smokers from non-smokers to see what effect smoking had, and as you can see, the regression line flattens for smokers.  This suggests that smokers are less likely to gain weight as they age. Please note that for non-smokers, I used a sample to prevent overplotting.
+![](images/Bmi_Age_SmokervsNon.jpg)
+
+Next I wanted to break it down by gender. From this visualization you can see that smoking has a strong effect on a male's BMI.  The graph suggests that men who smoke do not increase their BMIs as they age, and the difference is quite apparent compared to men who do not smoke.
+
+![](images/Bmi_Age_SmokervsNon_Men.jpg)
+
+Finally I looked at women.  Smoking had a different effect for women than for men. From the graph below you can see that women who smoke still experienced an increase in BMI as they aged.  This is in large part due to women giving birth, and indeed my data analysis shows that more children is correlated with increased BMI.
+However, the important take-away is summed up on with the boxplot on the right: this shows that the overall average BMI for women is *still lower for smokers than it is for non-smokers*. 
+![](images/Bmi_Age_women.jpg)
 
 ### Question 2 + Results
 
