@@ -5,11 +5,11 @@ Our project set out to answer two question: 1.) What effect does smoking have on
 
 ### Exploratory Data Analysis
 
-At the outset of my EDA, I was looking at the relationships between smoking, gender, region, and BMI.  Nothing interested presented itself until I looked at the relationship between smoking and BMI and I realized that it looked like smokers did not increase their BMI as they aged, compared to non-smokers who did.
+At the outset of my EDA, David was looking at the relationships between smoking, gender, region, and BMI.  Nothing interesting presented itself until he looked at the relationship between smoking and BMI.  He realized that it looked like smokers did not increase their BMI as they aged, compared to non-smokers who did.
 
 ![Davidimage](images/davidimage1.jpg)
 
-The following is my EDA that shows the relationship between BMI and medical expenses for each region. This visualization is for both males and females with all ages and all types of BMI from under weight to obesity.
+The following is Tong's EDA that shows the relationship between BMI and medical expenses for each region. This visualization is for both males and females with all ages and all types of BMI from under weight to obesity.
 
 ![Tongimage](images/EDATong.png)
 

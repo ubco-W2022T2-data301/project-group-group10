@@ -21,7 +21,6 @@ Our dataset is insurance forecasts of medical expenses in the United States of A
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
 ![](images/Bmi_Age_women.jpg)
 
