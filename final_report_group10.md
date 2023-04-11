@@ -11,11 +11,6 @@ At the outset of my EDA, I was looking at the relationships between smoking, gen
 
 The following is my EDA that shows the relationship between BMI and medical expenses for each region. This visualization is for both males and females with all ages and all types of BMI from under weight to obesity.
 
-<<<<<<< HEAD
-### Question 1
-My research question was **What effect does smoking have on an individual's BMI as they age?** 
-
-=======
 ![Tongimage](images/EDATong.png)
 
 ### Question 1 + Results
@@ -48,4 +43,3 @@ However, if I look at the two latest visualizations, I notice that, according to
 
 ### Summary/Conclusion
 The key findings from our report was that individual's that smoke have a lower BMI than individuals that do not, and that a lower BMI correlates with lower medical expenses, though that can be counteracted by children and age.  We learned the answers to our research questions, which were 1.) That individual's who smoke can expect a surprising benefit from an otherwise unhealthy activity: that it helps decrease a person's BMI as they age. 2.) We learned that women with lower BMIs experience lower medical expenses, but that regardless of BMI, based on available data, having one or two children can increase medical expenses.
->>>>>>> f6a8d4fcf514c10d122625f9ab23a421d69da804
