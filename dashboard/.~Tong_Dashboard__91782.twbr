@@ -904,7 +904,7 @@
                 </zone-style>
               </zone>
               <zone h='88614' id='8' type-v2='layout-basic' w='98698' x='651' y='10396'>
-                <zone h='44306' id='26' name='Relationship among young females (age 20-35) in each region with average medical expenses' w='50692' x='651' y='10396'>
+                <zone h='44306' id='26' name='Relationship among young females (age 20-35) in each region with average medical expenses' w='32628' x='651' y='10396'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -912,7 +912,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='26361' id='27' name='Relationship of medical expenses with BMI (obesity) in each region of young females with having children (1-5 children)' w='48006' x='51343' y='10396'>
+                <zone h='26361' id='27' name='Relationship of medical expenses with BMI (obesity) in each region of young females with having children (1-5 children)' w='66070' x='33279' y='10396'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -920,7 +920,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='44308' id='28' name='Relationship of middle aged females (age 36-50) in each region with average medical expenses' w='50692' x='651' y='54702'>
+                <zone h='44308' id='28' name='Relationship of middle aged females (age 36-50) in each region with average medical expenses' w='32628' x='651' y='54702'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -928,7 +928,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='62253' id='29' name='Relationship of medical expenses with BMI (obesity) in each region of middle aged females with having children (1-5 children)' w='48006' x='51343' y='36757'>
+                <zone h='62253' id='29' name='Relationship of medical expenses with BMI (obesity) in each region of middle aged females with having children (1-5 children)' w='66070' x='33279' y='36757'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1066,7 +1066,7 @@
       </cards>
       <simple-id uuid='{6948688D-748C-4073-8D6F-8114A93E02C8}' />
     </window>
-    <window class='dashboard' name='Dashboard'>
+    <window class='dashboard' maximized='true' name='Dashboard'>
       <viewpoints>
         <viewpoint name='Relationship among young females (age 20-35) in each region with average medical expenses'>
           <zoom type='entire-view' />
@@ -1084,7 +1084,7 @@
       <active id='-1' />
       <simple-id uuid='{09F95035-4516-4EB0-A766-4D79487D95F9}' />
     </window>
-    <window class='worksheet' maximized='true' name='Relationship of medical expenses with BMI (obesity) in each region of young females with having children (1-5 children)'>
+    <window class='worksheet' name='Relationship of medical expenses with BMI (obesity) in each region of young females with having children (1-5 children)'>
       <cards>
         <edge name='left'>
           <strip size='160'>

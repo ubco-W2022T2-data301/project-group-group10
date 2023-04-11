@@ -24,6 +24,9 @@ Our dataset is insurance forecasts of medical expenses in the United States of A
 
 ![](images/Bmi_Age_women.jpg)
 
+
+![DB](images/TongDB.png)
+
 ## References
 
 https://www.kaggle.com/datasets/mirichoi0218/insurance
